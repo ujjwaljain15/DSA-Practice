@@ -11,6 +11,10 @@ class Solution {
             num=num/10;
         }
 
-        return (rev == x);
+        if(rev == x){
+            return true;
+        }else{
+            return false;
+        }
     }
 }
