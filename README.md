@@ -1,1 +1,1 @@
-# DSA-Parctice
+# DSA-Practice
