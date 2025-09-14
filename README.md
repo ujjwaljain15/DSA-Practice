@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -24,9 +25,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Array
+|  |
+| ------- |
+| [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 <!---LeetCode Topics End-->
