@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
