@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0009-palindrome-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Database
 |  |
 | ------- |
@@ -70,4 +72,12 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
