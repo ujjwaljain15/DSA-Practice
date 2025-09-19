@@ -16,6 +16,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
@@ -32,6 +33,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -44,6 +46,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Database
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,4 +128,8 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
