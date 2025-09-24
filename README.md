@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0009-palindrome-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## String
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
