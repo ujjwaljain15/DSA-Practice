@@ -10,6 +10,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -157,4 +159,12 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
