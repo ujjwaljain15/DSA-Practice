@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
@@ -119,6 +120,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -133,5 +135,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
