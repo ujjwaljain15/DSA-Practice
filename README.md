@@ -51,6 +51,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
