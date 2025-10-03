@@ -50,6 +50,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Database
 |  |
@@ -124,6 +125,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -139,6 +141,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
 |  |
@@ -148,8 +151,10 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
