@@ -34,6 +34,7 @@
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
@@ -49,6 +50,7 @@
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1293-three-consecutive-odds](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
@@ -173,4 +175,12 @@
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Sorting
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
