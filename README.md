@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -51,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1293-three-consecutive-odds](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1293-three-consecutive-odds) |
@@ -150,6 +152,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
