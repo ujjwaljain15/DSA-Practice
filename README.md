@@ -18,6 +18,7 @@
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -170,6 +171,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
@@ -188,4 +190,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
