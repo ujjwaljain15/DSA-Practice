@@ -20,6 +20,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
@@ -40,6 +41,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
+| [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
@@ -62,6 +64,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3797-design-spreadsheet) |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
+| [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 ## Enumeration
 |  |
 | ------- |
