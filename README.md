@@ -70,6 +70,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1695-maximum-erasure-value](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -219,11 +220,13 @@
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
@@ -256,4 +259,8 @@
 |  |
 | ------- |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
