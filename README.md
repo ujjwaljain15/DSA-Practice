@@ -19,6 +19,7 @@
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
@@ -41,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
@@ -62,6 +64,7 @@
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1293-three-consecutive-odds](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
@@ -220,4 +223,9 @@
 |  |
 | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
