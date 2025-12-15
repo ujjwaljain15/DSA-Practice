@@ -48,6 +48,7 @@
 | [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3678-design-task-manager) |
@@ -77,6 +78,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -205,6 +207,7 @@
 | ------- |
 | [1717-maximum-score-from-removing-substrings](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
