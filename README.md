@@ -19,6 +19,7 @@
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
@@ -135,6 +136,7 @@
 ## Stack
 |  |
 | ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -200,6 +202,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
