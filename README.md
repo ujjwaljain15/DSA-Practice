@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -58,6 +59,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1293-three-consecutive-odds](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -210,4 +212,12 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Depth-First Search
+|  |
+| ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
