@@ -20,6 +20,7 @@
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
