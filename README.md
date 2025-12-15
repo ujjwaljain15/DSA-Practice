@@ -73,6 +73,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -216,6 +217,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
 |  |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1695-maximum-erasure-value) |
+## Tree
+|  |
+| ------- |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
