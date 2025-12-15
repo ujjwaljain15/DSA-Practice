@@ -71,6 +71,7 @@
 | [1695-maximum-erasure-value](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
