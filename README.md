@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwaljain15/DSA-Practice/tree/master/0009-palindrome-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -59,6 +60,7 @@
 | [1006-vowel-spellchecker](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1293-three-consecutive-odds](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ujjwaljain15/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -178,6 +180,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
