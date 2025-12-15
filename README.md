@@ -78,6 +78,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3606-coupon-code-validator](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,4 +251,8 @@
 |  |
 | ------- |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/ujjwaljain15/DSA-Practice/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ujjwaljain15/DSA-Practice/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
